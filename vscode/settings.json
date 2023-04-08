@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}"
+    },
+    "editor.cursorBlinking": "phase",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.tabSize": 4
+    },
+    "[javascript][typescript][css][scss][html][javascriptreact]": {
+        "editor.tabSize": 2
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.minimap.showSlider": "always"
+}
